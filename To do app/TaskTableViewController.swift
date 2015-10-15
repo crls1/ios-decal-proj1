@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TaskTableViewController: UITableViewController, DataDelegate {
+class TaskTableViewController: UITableViewController {
     
     // MARK: Properties
     var tasks = [Tasks]()
